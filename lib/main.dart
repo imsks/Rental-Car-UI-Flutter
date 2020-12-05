@@ -1,5 +1,5 @@
-import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
+import 'package:carousel_slider/carousel_slider.dart';
 import 'package:rentcar_app/bloc/state_bloc.dart';
 import 'package:rentcar_app/bloc/state_provider.dart';
 import 'model/car.dart';
